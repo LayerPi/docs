@@ -4,15 +4,16 @@
 
 ## PVM
 
-* [Page 3](pvm/page-3.md)
+* [About PVM](pvm/about-pvm.md)
 
 ## PRC20
 
-* [Page 2](prc20/page-2.md)
+* [Rules](prc20/rules.md)
+* [Indexer](prc20/indexer.md)
 
 ## SPI Token
 
-* [Page 4](spi-token/page-4.md)
+* [About](spi-token/about.md)
 
 ## Link
 
